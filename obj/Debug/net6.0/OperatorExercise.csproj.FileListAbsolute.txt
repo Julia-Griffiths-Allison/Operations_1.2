@@ -1,0 +1,15 @@
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
